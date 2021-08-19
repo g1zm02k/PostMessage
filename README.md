@@ -40,11 +40,11 @@ Make sure everything in the Windows tab is unchecked except 'Save Settings as De
 
 ![S07](https://user-images.githubusercontent.com/47895215/130149825-54d79c13-e2e4-4360-9362-0f00de7d462a.png)
 
-On the Output tab, uncheck everything aside from 'Decoded Message Parameters' and 'Save Settings as Default'.
+On the Messages tab, click 'Clear All' to ensure 0 messages selected shows, then scroll through the 'Messages to View' panel until you get to WM\_COMMAND (\~4/5ths down) and select it, making sure that's the only message selected. Again, tick 'Save Settings as Default'.
 
 ![S08](https://user-images.githubusercontent.com/47895215/130149861-ef8901c9-3a0a-4dcb-8718-07f7b6968b2e.png)
 
-Finally, on the Messages tab, click 'Clear All' to ensure 0 messages selected shows, then scroll through the 'Messages to View' panel until you get to WM\_COMMAND (\~4/5ths down) and select it, making sure that's the only message selected. Again, tick 'Save Settings as Default' and 'OK' out of there.
+Finally, on the Output tab, uncheck everything aside from 'Decoded Message Parameters' and 'Save Settings as Default' and 'OK' out of there.
 
 ![S09](https://user-images.githubusercontent.com/47895215/130149896-4740dd4d-ddf9-4748-aa09-6c5f48356e06.png)
 
