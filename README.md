@@ -66,7 +66,7 @@ And there it is!
 
 ![S13](https://user-images.githubusercontent.com/47895215/130150337-c10ee666-8689-45f7-ade7-e3d69a223642.png)
 
-There's a line which is noticably different from the rest with a 'P' for the second parameter:
+There's a line which is noticeably different from the rest with a 'P' for the second parameter:
 
 ![S14](https://user-images.githubusercontent.com/47895215/130150365-eadca45e-5b6d-4f45-8ed6-a0af62985796.png)
 
