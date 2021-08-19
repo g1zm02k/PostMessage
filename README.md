@@ -1,6 +1,6 @@
 # Good Day!
 
-Here's a quick guide to using Spy++* to find the `PostMessage` code to open the 'About' window of Notepad - but it can be used for a large number of other applications (providing they support it), this includes, but isn't restricted to, sending button presses to media players, opening specific menu items without having to navigate them first, the list goes on...
+Here's a quick guide to using Spy++* to find the `PostMessage` code to open the 'About' window of Notepad - bearing in mind that it can also be used for a large number of other applications (providing they support it), this includes, but isn't restricted to, sending button presses to media players, opening specific menu items without having to navigate them first, the list goes on...
 
 Simply put, `PostMessage` allows Windows objects to communicate with each other - for example, using the mouse to click on an app menu item basically triggers a message that the app interprets as a uniquely numbered UI item being activated and responds by showing that menu item's window, or similar effect - using `PostMessage` we can send the same message directly, completely bypassing the need for any mouse interaction at all.
 
