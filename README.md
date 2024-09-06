@@ -1,3 +1,9 @@
+# Caveat!
+
+This guide was written a long time ago for users to interact with apps written for Windows 10 and below, using the base controls/menus/etc. While it *may* work with some apps it's highly unlikely it'll work with more recent apps due to more modern systems in place, i.e. custom controls, apps written in Electron, Windows 11 being antisocial, etc.
+
+In short, don't expect it to work as the chances are very high that it won't.
+
 # Good Day!
 
 Here's a quick guide to using Spy++* to find the `PostMessage` code to open the 'About' window of Notepad - bearing in mind that it can also be used for a large number of other applications (providing they support it), this includes, but isn't restricted to, sending button presses to media players, opening specific menu items without having to navigate them first, the list goes on...
