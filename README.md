@@ -1,6 +1,8 @@
 # Caveat!
 
-This guide was written a long time ago for users to interact with apps written for Windows 10 and below, using the base controls/menus/etc. While it *may* work with some apps it's highly unlikely it'll work with more recent apps due to more modern systems in place, i.e. custom controls, apps written in Electron, Windows 11 being antisocial, etc.
+This guide was written a long time ago for users to interact with apps written for Windows 10 and below, using the base controls/menus/etc.
+
+While it *may* work with some apps it's highly likely it will **not** work with more recent apps due to more modern systems in place, i.e. custom controls, apps written in Electron, Windows 11 being antisocial, etc.
 
 In short, don't expect it to work as the chances are very high that it won't.
 
